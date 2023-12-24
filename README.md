@@ -1,8 +1,6 @@
 # Omega
 Abra Home Assignment
 
-There is a local DB with 3 users and messages between them.<br/>
-Names: abra1, abra2, abra3 (their names are also the password)<br/>
 
 ### Endpoints -
 #### GET 
